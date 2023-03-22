@@ -6,6 +6,7 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 class KotlinRestfullApiApplication
 
+
 fun main(args: Array<String>) {
 	runApplication<KotlinRestfullApiApplication>(*args)
 }
