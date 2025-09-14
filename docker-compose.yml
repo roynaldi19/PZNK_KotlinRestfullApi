@@ -9,4 +9,4 @@ services:
     environment:
       POSTGRES_PASSWORD: kotlin
       POSTGRES_USER: kotlin
-      POSTGRES_DB: restfull-api
+      POSTGRES_DB: res tfull-api
